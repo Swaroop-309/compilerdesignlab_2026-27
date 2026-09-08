@@ -8,10 +8,10 @@ ID a 2
 COMMA , 2
 ID b 2
 SEMICOLON ; 2
-ID char 3
+CHAR char 3
 ID c 3
 SEMICOLON ; 3
-ID string 4
+STRING string 4
 ID s 4
 SEMICOLON ; 4
 ID a 5
@@ -33,7 +33,7 @@ SEMICOLON ; 8
 PRINT print 9
 LPAREN ( 9
 ID a 9
-ERROR < 9
+LT < 9
 ID b 9
 RPAREN ) 9
 SEMICOLON ; 9

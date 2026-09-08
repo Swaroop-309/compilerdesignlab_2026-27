@@ -1,3 +1,6 @@
+No type errors found.
+
+Type-checked AST (with any inserted casts):
 Function main
   Assign
     Var(a)
